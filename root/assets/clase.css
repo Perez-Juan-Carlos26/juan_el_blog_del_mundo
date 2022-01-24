@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color:red
+}
+
+h3{
+    color:red;
+}
+
+h2{
+    color:aqua;
+}
+
+h4{
+    color:aqua;
+}
+
+figcaption{
+    color: aqua ;
+}
+
+li{
+    color: white ;
+}
+
+a{
+    color: white;
+}
